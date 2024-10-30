@@ -1,0 +1,26 @@
+﻿h1, h2 {
+  color: green;
+}
+
+p {
+  color: gray;
+}
+    ul {
+  border: 2px dotted orange;
+}
+
+ol {
+  border: 2px dotted purple;
+}
+
+ol, ul {
+  padding: 5px 40px;
+  border-radius: 8px;
+}
+    strong {
+  color: blueviolet;
+}
+
+em {
+  color: gray;
+}
