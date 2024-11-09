@@ -23,7 +23,6 @@ label {
 	display: inline-block; /* width will not work for “inline” elements such as
 	“label”. Therefore we need to set it to “inline-block” */
 	text-align: right;
-	width: .2em;
 }
 
 #formcol1 li {
